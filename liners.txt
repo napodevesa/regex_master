@@ -2,7 +2,7 @@
 12
 123
 1234
-22345
+12345
 12345678910
 12345678910a
 13453243
@@ -24,3 +24,13 @@ dominio.com
 [LOG ENTRY] [LOG] [user:@beco] Clicked here
 [LOG ENTRY] [LOG] [user:@beco] Rated the app
 [LOG ENTRY] [LOG] [user:@beco] Logged out
+
+
+\d = dígito;
+\w = word, dígitos, guiones;
+\s = space;
+\d = [0-9];
+
+\w = [a-z];
+[a-zA-Z_ ];
+[a-fA-F0-9_\.];
